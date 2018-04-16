@@ -1,0 +1,65 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #00ccff;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	border: 10px solid #000000;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+
+p.caption{
+	font-size: 16px;
+	color: black;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: #00b3b3;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #e6e6e6;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Stewie2K</h1>
+	</header>*/
